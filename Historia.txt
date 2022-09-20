@@ -1,11 +1,7 @@
-Esta es una prueba
+Esta es la historia de Freddy Vega
 
-Aca el segundo renglon
+Freddy Vega tiene 32 años y nació en Colombia
 
-Aca el tercer renglon
+Anita Platzi tiene 41 años y nació en Internet
 
-Aca viene la primera modificacion del archivo
-
-Segunda modificacion del archivo
-
-le agrego una linea al final
+Mañana nos enfocaremos en su vida laboral
